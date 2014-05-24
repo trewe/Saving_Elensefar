@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2014-02-07 00:28+0000\n"
+"POT-Creation-Date: 2014-05-24 16:46+0100\n"
 "PO-Revision-Date: 2013-12-31 18:06+0100\n"
 "Last-Translator: trewe <sjrs456@yandex.com>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
@@ -46,24 +46,24 @@ msgstr ""
 "irgendwas schiefgegangen)"
 
 #. [campaign]: id=saving_elensefar
-msgid "Mariner"
-msgstr "Seefahrer"
-
-#. [campaign]: id=saving_elensefar
 msgid "(easiest)"
 msgstr "(einfach)"
+
+#. [campaign]: id=saving_elensefar
+msgid "Mariner"
+msgstr "Seefahrer"
 
 #. [campaign]: id=saving_elensefar
 msgid "Navigator"
 msgstr "Navigator"
 
 #. [campaign]: id=saving_elensefar
-msgid "(hardest)"
-msgstr "(fordernd)"
-
-#. [campaign]: id=saving_elensefar
 msgid "Admiral"
 msgstr "Admiral"
+
+#. [campaign]: id=saving_elensefar
+msgid "(hardest)"
+msgstr "(fordernd)"
 
 #. [editor_group]: id=set
 msgid "Saving Elensefar Terrain"
@@ -232,15 +232,15 @@ msgstr ""
 "Meneldur hatte nur noch eine Wahl übrig - zurück zum Schiff und fliehen. "
 "Aber es gab bereits Orks die den Weg zum Hafen blockierten..."
 
-#. [message]: speaker=narrator
 #. [message]: id=Explorer
 #. [message]: id=The_Explorer
+#. [message]: speaker=narrator
 #. [unit]: type=Sailor, id=Madru
 msgid "Madru"
 msgstr "Madru"
 
-#. [side]: type=Orcish Warrior
 #. [side]: type=Orcish Crossbowman
+#. [side]: type=Orcish Warrior
 msgid "Orcish Pillagers"
 msgstr "Ork-Plünderer"
 
@@ -280,8 +280,8 @@ msgstr ""
 msgid "Let us move to the docks."
 msgstr ""
 
-#. [side]: type=Elvish Mariner, id=Meneldur
 #. [message]: speaker=narrator
+#. [side]: type=Elvish Mariner, id=Meneldur
 msgid "Meneldur"
 msgstr "Meneldur"
 
@@ -293,8 +293,8 @@ msgstr "Nun, wir stechen in See. Ich vermute unsere Stadt ist zerstört..."
 msgid "A Naval Engagement"
 msgstr "Ein See Zusammenstoß"
 
-#. [side]: type=Elvish Mariner, id=Meneldur
 #. [side]: id=Black the Red, type=SE Shadow Mage
+#. [side]: type=Elvish Mariner, id=Meneldur
 msgid "Elensefar's Loyals"
 msgstr "Loyalisten Elensefars"
 
@@ -494,8 +494,8 @@ msgstr "Ah-Reblak"
 msgid "Bahtak"
 msgstr "Bahtak"
 
-#. [side]: id=Bahtak, type=Orcish Warlord
 #. [side]: id=Ahtanuk, type=Orcish Warlord
+#. [side]: id=Bahtak, type=Orcish Warlord
 msgid "Revolting Orcs"
 msgstr "Aufständische Orks"
 
@@ -1033,8 +1033,8 @@ msgstr ""
 "eine Armee erheben und zurück zu Elensefar, um die Orcs zu besiegen und "
 "Anspruch auf was von der Stadt geblieben ist."
 
-#. [side]: id=Drake, type=Fugitive
 #. [side]
+#. [side]: id=Drake, type=Fugitive
 msgid "Pirates"
 msgstr "Piraten"
 
@@ -1778,8 +1778,8 @@ msgstr "Alter Idiot"
 msgid "Sakdur"
 msgstr "Sakdur"
 
-#. [side]: id=Sakdur, type=Orcish Crossbowman
 #. [side]: id=Asknak, type=Orcish Slayer
+#. [side]: id=Sakdur, type=Orcish Crossbowman
 msgid "Young Fouls"
 msgstr "Junge Idioten"
 
@@ -2727,8 +2727,8 @@ msgstr ""
 msgid "Its a deal."
 msgstr "Abgemacht."
 
-#. [side]: id=Kalandur, type=Elvish Champion
 #. [scenario]: id=sea_voyage_traitors
+#. [side]: id=Kalandur, type=Elvish Champion
 msgid "Traitors"
 msgstr "Verräter"
 

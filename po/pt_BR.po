@@ -2,11 +2,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2014-02-07 00:28+0000\n"
+"POT-Creation-Date: 2014-05-24 16:46+0100\n"
 "PO-Revision-Date: 2011-09-27 13:58+0100\n"
 "Last-Translator: trewe <sjrs456@yahoo.fr>\n"
 "Language-Team: none\n"
-"Language: \n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -45,37 +45,40 @@ msgid ""
 msgstr ""
 
 #. [campaign]: id=saving_elensefar
-msgid "Mariner"
-msgstr "Marinheiro"
-
-#. [campaign]: id=saving_elensefar
 msgid "(easiest)"
 msgstr "(mais fácil)"
+
+#. [campaign]: id=saving_elensefar
+msgid "Mariner"
+msgstr "Marinheiro"
 
 #. [campaign]: id=saving_elensefar
 msgid "Navigator"
 msgstr "Navegador"
 
 #. [campaign]: id=saving_elensefar
-msgid "(hardest)"
-msgstr "(Difícil)"
-
-#. [campaign]: id=saving_elensefar
 msgid "Admiral"
 msgstr "Almirante"
+
+#. [campaign]: id=saving_elensefar
+msgid "(hardest)"
+msgstr "(Difícil)"
 
 #. [editor_group]: id=set
 #, fuzzy
 msgid "Saving Elensefar Terrain"
 msgstr "O Resgate de Elensefar"
 
+#
+# File: data/campaigns/Heir_To_The_Throne/_main.cfg, line: 29
+# File: data/campaigns/Heir_To_The_Throne/_main.cfg, line: 29
 #. [about]
 msgid "Campaign Design"
-msgstr ""
+msgstr "Design da Campanha"
 
 #. [about]
 msgid "WML Contribution"
-msgstr ""
+msgstr "Contribuio de WML"
 
 #. [about]
 msgid "Artwork and Graphic Design"
@@ -83,11 +86,14 @@ msgstr ""
 
 #. [about]
 msgid "Translations"
-msgstr ""
+msgstr "Tradues"
 
+#
+# File: data/campaigns/Heir_To_The_Throne/_main.cfg, line: 35
+# File: data/campaigns/Heir_To_The_Throne/_main.cfg, line: 35
 #. [about]
 msgid "Campaign Maintenance"
-msgstr ""
+msgstr "Manuteno da Campanha"
 
 #. [scenario]: id=sea_voyage_-1
 msgid "Escaping the Orcs"
@@ -213,15 +219,15 @@ msgstr ""
 "Para Meneldur restava uma única opção – voltar a seu barco e partir. Mas "
 "orcs já bloqueavam seu caminho para o porto..."
 
-#. [message]: speaker=narrator
 #. [message]: id=Explorer
 #. [message]: id=The_Explorer
+#. [message]: speaker=narrator
 #. [unit]: type=Sailor, id=Madru
 msgid "Madru"
 msgstr "Madru"
 
-#. [side]: type=Orcish Warrior
 #. [side]: type=Orcish Crossbowman
+#. [side]: type=Orcish Warrior
 msgid "Orcish Pillagers"
 msgstr ""
 
@@ -262,8 +268,8 @@ msgstr ""
 msgid "Let us move to the docks."
 msgstr ""
 
-#. [side]: type=Elvish Mariner, id=Meneldur
 #. [message]: speaker=narrator
+#. [side]: type=Elvish Mariner, id=Meneldur
 msgid "Meneldur"
 msgstr "Meneldur"
 
@@ -275,8 +281,8 @@ msgstr "Para alto-mar, agora. Acho que nossa cidade está condenada..."
 msgid "A Naval Engagement"
 msgstr "Batalha Naval"
 
-#. [side]: type=Elvish Mariner, id=Meneldur
 #. [side]: id=Black the Red, type=SE Shadow Mage
+#. [side]: type=Elvish Mariner, id=Meneldur
 msgid "Elensefar's Loyals"
 msgstr ""
 
@@ -470,8 +476,8 @@ msgstr "Ah-Reblak"
 msgid "Bahtak"
 msgstr "Bahtak"
 
-#. [side]: id=Bahtak, type=Orcish Warlord
 #. [side]: id=Ahtanuk, type=Orcish Warlord
+#. [side]: id=Bahtak, type=Orcish Warlord
 msgid "Revolting Orcs"
 msgstr ""
 
@@ -995,8 +1001,8 @@ msgstr ""
 "Madru juraram que, se pudessem, eles formariam um exército e voltariam a "
 "Elensefar para derrotar os orcs e resgatar o que restasse da cidade."
 
-#. [side]: id=Drake, type=Fugitive
 #. [side]
+#. [side]: id=Drake, type=Fugitive
 msgid "Pirates"
 msgstr "Piratas"
 
@@ -1730,8 +1736,8 @@ msgstr ""
 msgid "Sakdur"
 msgstr "Sakdur"
 
-#. [side]: id=Sakdur, type=Orcish Crossbowman
 #. [side]: id=Asknak, type=Orcish Slayer
+#. [side]: id=Sakdur, type=Orcish Crossbowman
 msgid "Young Fouls"
 msgstr ""
 
@@ -1907,9 +1913,12 @@ msgstr ""
 msgid "Isle of Alduin"
 msgstr "A Ilha de Alduin"
 
+#
+# File: data/campaigns/Delfadors_Memoirs/units/Mage_Magister.cfg, line: 7
+# File: data/campaigns/Delfadors_Memoirs/units/Mage_Magister.cfg, line: 7
 #. [side]: type=Arch Mage, id=Leowyn
 msgid "Mage Magister"
-msgstr ""
+msgstr "Mago Magistral"
 
 #. [objectives]
 msgid "Persuade the Mages from Alduin to join your forces"
@@ -2028,9 +2037,30 @@ msgstr ""
 msgid "You Saurians have our word, let us expell the nagas."
 msgstr ""
 
+#
+# File: data/campaigns/Delfadors_Memoirs/scenarios/03_The_Road_to_Weldyn.cfg, line: 30
+# File: data/campaigns/Delfadors_Memoirs/scenarios/05_Council_in_Weldyn.cfg, line: 27
+# File: data/campaigns/Delfadors_Memoirs/scenarios/05_Council_in_Weldyn.cfg, line: 38
+# File: data/campaigns/Delfadors_Memoirs/scenarios/06_Swamps_of_Illuven.cfg, line: 31
+# File: data/campaigns/Delfadors_Memoirs/scenarios/08_Ur_Thorodor.cfg, line: 33
+# File: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg, line: 211
+# File: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg, line: 246
+# File: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg, line: 31
+# File: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg, line: 40
+# File: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg, line: 55
+# File: data/campaigns/Delfadors_Memoirs/scenarios/03_The_Road_to_Weldyn.cfg, line: 30
+# File: data/campaigns/Delfadors_Memoirs/scenarios/05_Council_in_Weldyn.cfg, line: 27
+# File: data/campaigns/Delfadors_Memoirs/scenarios/05_Council_in_Weldyn.cfg, line: 38
+# File: data/campaigns/Delfadors_Memoirs/scenarios/06_Swamps_of_Illuven.cfg, line: 31
+# File: data/campaigns/Delfadors_Memoirs/scenarios/08_Ur_Thorodor.cfg, line: 33
+# File: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg, line: 211
+# File: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg, line: 246
+# File: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg, line: 31
+# File: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg, line: 40
+# File: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg, line: 55
 #. [modify_side]
 msgid "Player"
-msgstr ""
+msgstr "Jogador"
 
 #. [command]
 msgid "$unit.name finds the Cape of Invisibilty. Should he pick it up?"
@@ -2610,8 +2640,8 @@ msgstr ""
 msgid "Its a deal."
 msgstr ""
 
-#. [side]: id=Kalandur, type=Elvish Champion
 #. [scenario]: id=sea_voyage_traitors
+#. [side]: id=Kalandur, type=Elvish Champion
 msgid "Traitors"
 msgstr "Traidores"
 
@@ -2619,9 +2649,13 @@ msgstr "Traidores"
 msgid "Kalandur"
 msgstr "Kalandur"
 
+#
+# File: data/lua/wml/objectives.lua, line: 11916
+# File: data/lua/wml/objectives.lua, line: 1475
+# File: data/lua/wml/objectives.lua, line: 1475
 #. [objectives]
 msgid "Gold carryover:"
-msgstr ""
+msgstr "Transferncia de ouro:"
 
 #. [note]
 msgid ""
@@ -3259,13 +3293,20 @@ msgid ""
 "labor."
 msgstr ""
 
+#
+# File: data/campaigns/Dead_Water/units/Brawler.cfg, line: 36
+# File: data/campaigns/Dead_Water/units/Citizen.cfg, line: 36
+# File: data/campaigns/Dead_Water/units/Brawler.cfg, line: 36
+# File: data/campaigns/Dead_Water/units/Citizen.cfg, line: 36
+# File: data/campaigns/Dead_Water/units/Brawler.cfg, line: 36
+# File: data/campaigns/Dead_Water/units/Citizen.cfg, line: 36
 #. [attack]: type=impact
 msgid "fist"
-msgstr ""
+msgstr "punho"
 
 #. [unit_type]: id=SE Civilian, race=human
 msgid "Civilian"
-msgstr ""
+msgstr "Civil"
 
 #. [unit_type]: id=SE Civilian, race=human
 msgid ""
@@ -3273,9 +3314,46 @@ msgid ""
 "violent manner."
 msgstr ""
 
+#
+# File: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Dragonguard.cfg, line: 25
+# File: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Thunderer.cfg, line: 42
+# File: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Thunderguard.cfg, line: 27
+# File: data/core/units/dwarves/Dragonguard.cfg, line: 38
+# File: data/core/units/dwarves/Thunderer.cfg, line: 50
+# File: data/core/units/dwarves/Thunderguard.cfg, line: 39
+# File: data/core/units/humans/Outlaw_Assassin.cfg, line: 40
+# File: data/core/units/humans/Outlaw_Rogue.cfg, line: 39
+# File: data/core/units/humans/Outlaw_Thief.cfg, line: 108
+# File: data/core/units/humans/Woodsman.cfg, line: 43
+# File: data/core/units/humans/Woodsman_Huntsman.cfg, line: 50
+# File: data/core/units/humans/Woodsman_Poacher.cfg, line: 47
+# File: data/core/units/humans/Woodsman_Trapper.cfg, line: 52
+# File: data/core/units/orcs/Archer.cfg, line: 40
+# File: data/core/units/orcs/Assassin.cfg, line: 41
+# File: data/core/units/orcs/Slayer.cfg, line: 39
+# File: data/core/units/undead/Skele_Banebow.cfg, line: 44
+# File: data/core/units/undead/Skele_Bone_Shooter.cfg, line: 42
+# File: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Dragonguard.cfg, line: 25
+# File: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Thunderer.cfg, line: 42
+# File: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Thunderguard.cfg, line: 27
+# File: data/core/units/dwarves/Dragonguard.cfg, line: 38
+# File: data/core/units/dwarves/Thunderer.cfg, line: 50
+# File: data/core/units/dwarves/Thunderguard.cfg, line: 39
+# File: data/core/units/humans/Outlaw_Assassin.cfg, line: 40
+# File: data/core/units/humans/Outlaw_Rogue.cfg, line: 39
+# File: data/core/units/humans/Outlaw_Thief.cfg, line: 108
+# File: data/core/units/humans/Woodsman.cfg, line: 43
+# File: data/core/units/humans/Woodsman_Huntsman.cfg, line: 50
+# File: data/core/units/humans/Woodsman_Poacher.cfg, line: 47
+# File: data/core/units/humans/Woodsman_Trapper.cfg, line: 52
+# File: data/core/units/orcs/Archer.cfg, line: 40
+# File: data/core/units/orcs/Assassin.cfg, line: 41
+# File: data/core/units/orcs/Slayer.cfg, line: 39
+# File: data/core/units/undead/Skele_Banebow.cfg, line: 44
+# File: data/core/units/undead/Skele_Bone_Shooter.cfg, line: 42
 #. [attack]: type=blade
 msgid "dagger"
-msgstr ""
+msgstr "adaga"
 
 #. [unit_type]: id=Elvish Admiral, race=elf
 msgid "Elvish Admiral"
@@ -3292,9 +3370,10 @@ msgstr ""
 msgid "staff"
 msgstr "Bastão"
 
+# arma do Testemunhador
 #. [attack]: type=impact
 msgid "bolas"
-msgstr ""
+msgstr "boleadeira"
 
 #. [unit_type]: id=Elvish Mariner, race=elf
 msgid "Elvish Mariner"
@@ -3337,9 +3416,14 @@ msgid ""
 "and study to cast as true magi can."
 msgstr ""
 
+#
+# File: data/core/units/humans/Mage.cfg, line: 51
+# File: data/core/units/humans/Mage_Silver.cfg, line: 57
+# File: data/core/units/humans/Mage.cfg, line: 51
+# File: data/core/units/humans/Mage_Silver.cfg, line: 57
 #. [attack]: type=fire
 msgid "missile"
-msgstr ""
+msgstr "mssil"
 
 #. [female]
 msgid "female^Initiate"
@@ -3438,6 +3522,8 @@ msgid ""
 " This unit is capable of distracting opponents, allowing allied units to "
 "trespass their Zones of Control and move unhindered around them."
 msgstr ""
+"Esta unidade  capaz de distrair os seus adversrios, permitindo a aliados "
+"passar pela Zona de Controle hostil e mover-se a volta deles."
 
 msgid ""
 " The presence of this unit inspires own units next to it to deal more damage "
@@ -3457,13 +3543,15 @@ msgstr ""
 
 #. [leadership]: id=blitz
 msgid "blitz"
-msgstr ""
+msgstr "assalto"
 
 #. [leadership]: id=blitz
 msgid ""
 "Allies that start their turn adjacent to this unit are granted Skirmisher "
 "for that turn."
 msgstr ""
+"Aliados que iniciam o seu turno adjacente a esta unidade so concedidos "
+"escaramuador por esse turno."
 
 msgid "battle tutor"
 msgstr ""
@@ -3480,20 +3568,24 @@ msgid "$hits XP"
 msgstr ""
 
 msgid "distract"
-msgstr ""
+msgstr "distrair"
 
 msgid ""
 "This unit negates enemy Zones of Control around itself for allied units (but "
 "not for itself)."
 msgstr ""
+"Esta unidade nega a Zona de Controle do seu inimigo a volta de si para "
+"resgatar aliados."
 
 msgid "inspire"
-msgstr ""
+msgstr "inspirar"
 
 msgid ""
 "This unit can inspire *allied* units that are next to it, making them do 25% "
 "more damage per level difference."
 msgstr ""
+"Esta unidade  capaz de inspirar unidades *aliadas* a sua volta, concedendo-"
+"lhes um bnus de 25% ao dano infligido por cada nvel de diferena."
 
 #. [message]: speaker=narrator
 msgid "Do you really want to run away?"
@@ -3535,9 +3627,12 @@ msgstr ""
 msgid "Far from home I fall — but not in vain! Guard our people, Madru!"
 msgstr ""
 
+#
+# File: data/campaigns/Under_the_Burning_Suns/utils/deaths.cfg, line: 137
+# File: data/campaigns/Under_the_Burning_Suns/utils/deaths.cfg, line: 137
 #. [message]: id=Madru
 msgid "I go now to join my forefathers..."
-msgstr ""
+msgstr "Volto para a casa de meus ancestrais..."
 
 #. [message]: id=Meneldur
 msgid "He was a brave warrior and a true friend. We will miss him."

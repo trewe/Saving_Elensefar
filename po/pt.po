@@ -2,11 +2,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2014-02-07 00:28+0000\n"
+"POT-Creation-Date: 2014-05-24 16:46+0100\n"
 "PO-Revision-Date: 2014-02-07 00:31+0100\n"
 "Last-Translator: trewe <sjrs456@yandex.com>\n"
 "Language-Team: none\n"
-"Language: pt_PT\n"
+"Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -63,15 +63,15 @@ msgstr ""
 # File: Saving_Elensefar/_main.cfg, line: 36
 # File: Saving_Elensefar/_main.cfg, line: 32
 #. [campaign]: id=saving_elensefar
-msgid "Mariner"
-msgstr "Marinheiro"
+msgid "(easiest)"
+msgstr "(mais fácil)"
 
 #
 # File: Saving_Elensefar/_main.cfg, line: 36
 # File: Saving_Elensefar/_main.cfg, line: 32
 #. [campaign]: id=saving_elensefar
-msgid "(easiest)"
-msgstr "(mais fácil)"
+msgid "Mariner"
+msgstr "Marinheiro"
 
 #
 # File: Saving_Elensefar/_main.cfg, line: 37
@@ -84,15 +84,15 @@ msgstr "Navegador"
 # File: Saving_Elensefar/_main.cfg, line: 38
 # File: Saving_Elensefar/_main.cfg, line: 34
 #. [campaign]: id=saving_elensefar
-msgid "(hardest)"
-msgstr "(Difícil)"
+msgid "Admiral"
+msgstr "Almirante"
 
 #
 # File: Saving_Elensefar/_main.cfg, line: 38
 # File: Saving_Elensefar/_main.cfg, line: 34
 #. [campaign]: id=saving_elensefar
-msgid "Admiral"
-msgstr "Almirante"
+msgid "(hardest)"
+msgstr "(Difícil)"
 
 #
 # File: Saving_Elensefar/_main.cfg, line: 70
@@ -337,9 +337,9 @@ msgstr ""
 # File: Saving_Elensefar/utils/gold_carryover.cfg, line: 50
 # File: Saving_Elensefar/utils/gold_carryover.cfg, line: 72
 # File: Saving_Elensefar/utils/gold_carryover.cfg, line: 116
-#. [message]: speaker=narrator
 #. [message]: id=Explorer
 #. [message]: id=The_Explorer
+#. [message]: speaker=narrator
 #. [unit]: type=Sailor, id=Madru
 msgid "Madru"
 msgstr "Madru"
@@ -351,8 +351,8 @@ msgstr "Madru"
 # File: Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg, line: 153
 # File: Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg, line: 172
 # File: Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg, line: 191
-#. [side]: type=Orcish Warrior
 #. [side]: type=Orcish Crossbowman
+#. [side]: type=Orcish Warrior
 msgid "Orcish Pillagers"
 msgstr "saqueadores orcs"
 
@@ -508,8 +508,8 @@ msgstr "Vamos para as docas."
 # File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 789
 # File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 829
 # File: Saving_Elensefar/utils/utils.cfg, line: 243
-#. [side]: type=Elvish Mariner, id=Meneldur
 #. [message]: speaker=narrator
+#. [side]: type=Elvish Mariner, id=Meneldur
 msgid "Meneldur"
 msgstr "Meneldur"
 
@@ -530,8 +530,8 @@ msgstr "Uma Batalha Naval"
 #
 # File: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg, line: 25
 # File: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg, line: 19
-#. [side]: type=Elvish Mariner, id=Meneldur
 #. [side]: id=Black the Red, type=SE Shadow Mage
+#. [side]: type=Elvish Mariner, id=Meneldur
 msgid "Elensefar's Loyals"
 msgstr "Leais à Elensefar"
 
@@ -876,8 +876,8 @@ msgstr "Bahtak"
 # File: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg, line: 112
 # File: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg, line: 80
 # File: Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg, line: 107
-#. [side]: id=Bahtak, type=Orcish Warlord
 #. [side]: id=Ahtanuk, type=Orcish Warlord
+#. [side]: id=Bahtak, type=Orcish Warlord
 msgid "Revolting Orcs"
 msgstr "Orcs revoltosos"
 
@@ -1667,8 +1667,8 @@ msgstr ""
 # File: Saving_Elensefar/scenarios/i5_Fire_Island.cfg, line: 51
 # File: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg, line: 29
 # File: Saving_Elensefar/scenarios/i5_Fire_Island.cfg, line: 48
-#. [side]: id=Drake, type=Fugitive
 #. [side]
+#. [side]: id=Drake, type=Fugitive
 msgid "Pirates"
 msgstr "Piratas"
 
@@ -2719,8 +2719,8 @@ msgstr "Sakdur"
 # File: Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg, line: 74
 # File: Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg, line: 62
 # File: Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg, line: 74
-#. [side]: id=Sakdur, type=Orcish Crossbowman
 #. [side]: id=Asknak, type=Orcish Slayer
+#. [side]: id=Sakdur, type=Orcish Crossbowman
 msgid "Young Fouls"
 msgstr "jovens tolos"
 
@@ -4195,8 +4195,8 @@ msgstr "Está terminado."
 # File: Saving_Elensefar/scenarios/i6_Traitors.cfg, line: 25
 # File: Saving_Elensefar/scenarios/i6_Traitors.cfg, line: 6
 # File: Saving_Elensefar/scenarios/i6_Traitors.cfg, line: 25
-#. [side]: id=Kalandur, type=Elvish Champion
 #. [scenario]: id=sea_voyage_traitors
+#. [side]: id=Kalandur, type=Elvish Champion
 msgid "Traitors"
 msgstr "Traidores"
 

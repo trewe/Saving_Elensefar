@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Saving_Elensefar-1.10\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2014-02-07 00:28+0000\n"
+"POT-Creation-Date: 2014-05-24 16:46+0100\n"
 "PO-Revision-Date: 2011-11-27 12:57+0100\n"
 "Last-Translator: Kelemen Zoltan <kelemen_zoltan@freemail.hu>\n"
 "Language-Team: none\n"
@@ -42,24 +42,24 @@ msgid ""
 msgstr ""
 
 #. [campaign]: id=saving_elensefar
-msgid "Mariner"
-msgstr "Tengerész"
-
-#. [campaign]: id=saving_elensefar
 msgid "(easiest)"
 msgstr "(legkönnyebb)"
+
+#. [campaign]: id=saving_elensefar
+msgid "Mariner"
+msgstr "Tengerész"
 
 #. [campaign]: id=saving_elensefar
 msgid "Navigator"
 msgstr "Hajóskapitány"
 
 #. [campaign]: id=saving_elensefar
-msgid "(hardest)"
-msgstr "(legnehezebb)"
-
-#. [campaign]: id=saving_elensefar
 msgid "Admiral"
 msgstr "Admirális"
+
+#. [campaign]: id=saving_elensefar
+msgid "(hardest)"
+msgstr "(legnehezebb)"
 
 #. [editor_group]: id=set
 msgid "Saving Elensefar Terrain"
@@ -205,15 +205,15 @@ msgstr ""
 "Meneldurnak egy lehetősége maradt - visszatér a hajójára, és elmenekül. De "
 "az orkok elzárták a kikötőbe vezető utat..."
 
-#. [message]: speaker=narrator
 #. [message]: id=Explorer
 #. [message]: id=The_Explorer
+#. [message]: speaker=narrator
 #. [unit]: type=Sailor, id=Madru
 msgid "Madru"
 msgstr "Madru"
 
-#. [side]: type=Orcish Warrior
 #. [side]: type=Orcish Crossbowman
+#. [side]: type=Orcish Warrior
 msgid "Orcish Pillagers"
 msgstr "Ork fosztogatók"
 
@@ -255,8 +255,8 @@ msgstr ""
 msgid "Let us move to the docks."
 msgstr ""
 
-#. [side]: type=Elvish Mariner, id=Meneldur
 #. [message]: speaker=narrator
+#. [side]: type=Elvish Mariner, id=Meneldur
 msgid "Meneldur"
 msgstr "Meneldur"
 
@@ -268,8 +268,8 @@ msgstr "Irány a tenger! A városunknak sajnos befellegzett..."
 msgid "A Naval Engagement"
 msgstr "Tengeri csata"
 
-#. [side]: type=Elvish Mariner, id=Meneldur
 #. [side]: id=Black the Red, type=SE Shadow Mage
+#. [side]: type=Elvish Mariner, id=Meneldur
 msgid "Elensefar's Loyals"
 msgstr "Elensefari hazafiak"
 
@@ -458,8 +458,8 @@ msgstr "Ah-Reblak"
 msgid "Bahtak"
 msgstr "Bahtak"
 
-#. [side]: id=Bahtak, type=Orcish Warlord
 #. [side]: id=Ahtanuk, type=Orcish Warlord
+#. [side]: id=Bahtak, type=Orcish Warlord
 msgid "Revolting Orcs"
 msgstr "Lázadó orkok"
 
@@ -969,8 +969,8 @@ msgstr ""
 "megesküdött, hogy ha képesek lesznek rá, akkora sereget gyűjtenek, hogy "
 "vissza tudják foglalni Elensefart, s megmentsék belőle, amit még meg lehet. "
 
-#. [side]: id=Drake, type=Fugitive
 #. [side]
+#. [side]: id=Drake, type=Fugitive
 msgid "Pirates"
 msgstr "Kalózok"
 
@@ -1682,8 +1682,8 @@ msgstr "Vén gazember"
 msgid "Sakdur"
 msgstr "Sakdur"
 
-#. [side]: id=Sakdur, type=Orcish Crossbowman
 #. [side]: id=Asknak, type=Orcish Slayer
+#. [side]: id=Sakdur, type=Orcish Crossbowman
 msgid "Young Fouls"
 msgstr "Ifjú csirkefogók"
 
@@ -2605,8 +2605,8 @@ msgstr ""
 msgid "Its a deal."
 msgstr "Megegyeztünk."
 
-#. [side]: id=Kalandur, type=Elvish Champion
 #. [scenario]: id=sea_voyage_traitors
+#. [side]: id=Kalandur, type=Elvish Champion
 msgid "Traitors"
 msgstr "Árulók"
 

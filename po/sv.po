@@ -2,11 +2,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2014-02-07 00:28+0000\n"
+"POT-Creation-Date: 2014-05-24 16:46+0100\n"
 "PO-Revision-Date: 2011-05-29 12:04+0100\n"
 "Last-Translator: trewe <sjrs456@yahoo.fr>\n"
 "Language-Team: Swedish\n"
-"Language: \n"
+"Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -43,25 +43,25 @@ msgid ""
 msgstr ""
 
 #. [campaign]: id=saving_elensefar
-msgid "Mariner"
-msgstr "Sjöman"
-
-#. [campaign]: id=saving_elensefar
 #, fuzzy
 msgid "(easiest)"
 msgstr "(svårt)"
+
+#. [campaign]: id=saving_elensefar
+msgid "Mariner"
+msgstr "Sjöman"
 
 #. [campaign]: id=saving_elensefar
 msgid "Navigator"
 msgstr "Navigatör"
 
 #. [campaign]: id=saving_elensefar
-msgid "(hardest)"
-msgstr "(svårt)"
-
-#. [campaign]: id=saving_elensefar
 msgid "Admiral"
 msgstr "Amiral"
+
+#. [campaign]: id=saving_elensefar
+msgid "(hardest)"
+msgstr "(svårt)"
 
 #. [editor_group]: id=set
 #, fuzzy
@@ -211,15 +211,15 @@ msgstr ""
 "Meneldur hade bara ett val - att ta sig tillbaka till sitt skepp och fly. "
 "Men orcherna hade redan blockerat vägen till hamnen..."
 
-#. [message]: speaker=narrator
 #. [message]: id=Explorer
 #. [message]: id=The_Explorer
+#. [message]: speaker=narrator
 #. [unit]: type=Sailor, id=Madru
 msgid "Madru"
 msgstr "Madru"
 
-#. [side]: type=Orcish Warrior
 #. [side]: type=Orcish Crossbowman
+#. [side]: type=Orcish Warrior
 msgid "Orcish Pillagers"
 msgstr ""
 
@@ -259,8 +259,8 @@ msgstr ""
 msgid "Let us move to the docks."
 msgstr ""
 
-#. [side]: type=Elvish Mariner, id=Meneldur
 #. [message]: speaker=narrator
+#. [side]: type=Elvish Mariner, id=Meneldur
 msgid "Meneldur"
 msgstr "Meneldur"
 
@@ -272,8 +272,8 @@ msgstr "Nu far vi till sjöss. Vår stad är dömd..."
 msgid "A Naval Engagement"
 msgstr "En sammandrabbning till havs"
 
-#. [side]: type=Elvish Mariner, id=Meneldur
 #. [side]: id=Black the Red, type=SE Shadow Mage
+#. [side]: type=Elvish Mariner, id=Meneldur
 msgid "Elensefar's Loyals"
 msgstr ""
 
@@ -463,8 +463,8 @@ msgstr "Ah-Reblak"
 msgid "Bahtak"
 msgstr ""
 
-#. [side]: id=Bahtak, type=Orcish Warlord
 #. [side]: id=Ahtanuk, type=Orcish Warlord
+#. [side]: id=Bahtak, type=Orcish Warlord
 msgid "Revolting Orcs"
 msgstr ""
 
@@ -973,8 +973,8 @@ msgstr ""
 "samla ihop en armé och återvända till Elensefar för att besegra orcherna och "
 "återta vad som än fanns kvar av staden."
 
-#. [side]: id=Drake, type=Fugitive
 #. [side]
+#. [side]: id=Drake, type=Fugitive
 msgid "Pirates"
 msgstr ""
 
@@ -1701,8 +1701,8 @@ msgstr ""
 msgid "Sakdur"
 msgstr ""
 
-#. [side]: id=Sakdur, type=Orcish Crossbowman
 #. [side]: id=Asknak, type=Orcish Slayer
+#. [side]: id=Sakdur, type=Orcish Crossbowman
 msgid "Young Fouls"
 msgstr ""
 
@@ -2579,8 +2579,8 @@ msgstr ""
 msgid "Its a deal."
 msgstr ""
 
-#. [side]: id=Kalandur, type=Elvish Champion
 #. [scenario]: id=sea_voyage_traitors
+#. [side]: id=Kalandur, type=Elvish Champion
 msgid "Traitors"
 msgstr "Förrädare"
 
